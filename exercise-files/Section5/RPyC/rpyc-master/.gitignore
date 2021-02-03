@@ -1,0 +1,10 @@
+*.pyc
+.project
+.pydevproject
+.settings
+dist
+MANIFEST
+__pycache__
+rpyc.egg-info
+*.egg
+*.class
