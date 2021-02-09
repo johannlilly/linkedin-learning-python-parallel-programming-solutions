@@ -11,7 +11,7 @@ class CookBook(Thread):
         Thread.__init__(self)
         self.message = "Hello Parallel Python CookBook!!\n"
 
-##this method thod prints only the message 
+##this method prints only the message 
     def print_message(self):
         print (self.message)
 
